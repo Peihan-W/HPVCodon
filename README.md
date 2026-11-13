@@ -41,8 +41,6 @@ The repository contains scripts and/or intermediate data used for the following 
 * robustness analyses involving identical CDS and ambiguous nucleotide calls
 * additional analyses used during manuscript revision
 
-RSCU values were generated using CodonW from pooled coding sequences within each HPV type–gene dataset. The repository includes the corresponding intermediate RSCU outputs and processed tables so that the reported type–gene–codon values can be independently inspected.
-
 ## Main computational workflow
 
 The general analysis workflow was:
